@@ -4,7 +4,7 @@
 
 ---
 
-# 종류
+# Feature list
 
 - DNS Server
 - File Server
