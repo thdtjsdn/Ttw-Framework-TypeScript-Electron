@@ -1,0 +1,6 @@
+export class NodeErrors {
+
+	constructor() {
+		
+	}
+}
