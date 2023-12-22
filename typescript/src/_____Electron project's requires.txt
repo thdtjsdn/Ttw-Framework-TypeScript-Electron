@@ -1,0 +1,5 @@
+require(  process.cwd() + "/typescript/src/main.js" );
+
+require(  process.cwd() + "/typescript/src/example_http_server.js" );
+
+require(  process.cwd() + "/typescript/src/example_https_server.js" );
