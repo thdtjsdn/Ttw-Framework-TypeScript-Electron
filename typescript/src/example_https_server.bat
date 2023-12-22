@@ -1,0 +1,1 @@
+..\..\node_modules\.bin\ts-node example_https_server.ts
